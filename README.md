@@ -1,6 +1,6 @@
 # KawalkiKodu
 
-Poniżej daję przykłady kodu który kiedyś napisałem, z każdym nowym projektem który robiłem starałem się coraz mocniej zaciśniać konwencję Laravela w jak najlepszy sposób. Dałem większość przykładów, nawet tych które są mniej profesjonalne ale sądzę, że nie ma co ukrywać faktu iż każdy uczy się z każdą linijką. Starałem się zawrzeć również przeróżne dziedziny laravaela z którymi miałem styczności. Nie mogłem niestety udostępniać security z wiadomych powodów. Metody, klasy są nie pełne i tylko do przeglądu cząstki kodu. Aktualnie większość z tego kodu, z miłą chęcią bym zrefaktorował i widzę kopiując z mojego repo jak bardzo można to poprawić. Mam nadzieję, że te cząstki kodu przyblirzą bardziej tok mojego myślenia. 
+Poniżej daję przykłady kodu który kiedyś napisałem, z każdym nowym projektem który robiłem starałem się coraz mocniej zaciśniać konwencję Laravela w jak najlepszy sposób. Dałem większość przykładów, nawet tych które są mniej profesjonalne ale można zauważyć elastyczność i różne sposoby rozwiązania problemu oraz sądzę, że nie ma co ukrywać faktu iż każdy uczy się z każdą linijką. Starałem się zawrzeć również przeróżne dziedziny laravaela z którymi miałem styczności. Nie mogłem niestety udostępniać security z wiadomych powodów. Metody, klasy są nie pełne i tylko do przeglądu kodu. Aktualnie większość z tego kodu, z miłą chęcią bym zrefaktorował i widzę kopiując z mojego repo jak bardzo można to poprawić. Mam nadzieję, że te to przybliży bardziej tok mojego myślenia. 
 
 Prosty edit kontrolera
 
